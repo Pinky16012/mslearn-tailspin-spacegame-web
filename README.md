@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/pinkyshen46/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Space%20Game%20-%20web%20-%20Pipeline-CI?branchName=main)](https://dev.azure.com/pinkyshen46/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=8&branchName=main)
+
 
 # Contributing
 
